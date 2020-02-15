@@ -1,3 +1,63 @@
+body{
+    background-color:#e3ddbc;
+}
 h1 {
-    color:orange; 
+    color:black; 
+    font-family: arial;
+    text-align:center;
+}
+.site-author {
+    text-align: right; 
+    font-family:arial;
+    margin-right:20px;
+}
+
+.website-structure {
+    font-family:arial;
+    color:black;
+}
+    
+h2 {
+    font-family:arial;
+    text-align:center;
+}
+
+table{
+    width:50%; 
+    margin-left:210px; 
+    margin-bottom:30px; 
+}
+
+th{
+    height:50px;
+}
+table, th, td{
+    border-collapse:collapse;
+    border:1px solid black;
+}
+
+th{
+    padding:2px; 
+    text-align:center;
+    font-family:arial;
+    font-size:16px;
+    background-color:#e0bd15; 
+} 
+
+td{
+    padding:2px;
+    text-align: left;
+    font-family:arial;
+    font-size:15px;
+    background-color:white;
+}
+
+.myAvatar {
+    height:200px;
+    width:190px;
+}
+
+.footer {
+    font-family:arial;
+    text-align:center;
 }
